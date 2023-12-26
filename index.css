@@ -1,0 +1,13 @@
+.heading{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 30px;
+}
+.bg-container {
+    background-color: #f3f3f3;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: "Roboto";
+    margin: 20px;
+}
